@@ -1,0 +1,55 @@
+html {
+    box-sizing: border-box;
+    font-size: 97%;
+}
+
+body{
+    font-size: 77%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightcyan;
+}
+
+header{
+    padding: 30%;
+
+}
+
+header p a{
+    text-decoration: none;
+    color: blue;
+
+}
+
+.DOM {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.DOM h2{
+    color: white;
+    text-align: center;
+}
+
+.DOM nav a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.DOM p{
+    color: blue;
+    font-size: 20px;
+}
+.DOM #formulario{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.DOM #formulario input{
+    display: block;
+    width: 100%;
+    border: none;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
