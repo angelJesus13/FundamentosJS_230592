@@ -9,6 +9,8 @@ Previo a inlslciar el desarrollo de software para web el framework de NodeJS, re
  |--|--|--|
  |1.|Metodologia de evaluacion|Activa|
  |2.|Inicializacion del proyecto de fundamentos de js|Activa|
+ |3.|Declaracion de Variables|Activa|
+ |1.|Introduccion a Objetos|Activa|
 
 
 ### AUTOR
