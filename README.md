@@ -12,9 +12,6 @@ Previo a inlslciar el desarrollo de software para web el framework de NodeJS, re
  |2.|Inicializacion del proyecto de fundamentos de js|Activa|
 
 
-=======
-Previo a iniciar el desarrollo de software para web el framework de NodeJS, realizaremos un par de practicas de repaso en java script puro, con el objetivo de confrimar los conocimientos basicos de logica de programación.
->>>>>>> Angel-Practica2
 ### AUTOR
 Angel de Jesus Baños Tellez
 Unidad 1
