@@ -5,12 +5,13 @@ Proyecto de clase para la unidad 1 de la asignatura de Aplicaciones Web Orientad
 Previo a inlslciar el desarrollo de software para web el framework de NodeJS, realizaremos un par de practicas de repaso en java script puro, con el objetivo de confrimar los conocimientos basicos de logica de programación.
 
  ## Historial de Prácticas
- |No. |Descripción|Estatus|
- |--|--|--|
+ |No. |Descripción|Estatus|Potenciador|
+ |--|--|--|--|
  |1.|Metodologia de evaluacion|Activa|
  |2.|Inicializacion del proyecto de fundamentos de js|Activa|
- |3.|Declaracion de Variables|Activa|
- |1.|Introduccion a Objetos|Activa|
+ |3.|Declaracion de Variables (undefined/boolean/number)|Activa|
+ |3.|Declaracion de Variables (symbol/string/null/function)|Activa|
+
 
 
 ### AUTOR
