@@ -1,0 +1,87 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* Define el tamaño de fuente en 62.5% del tamaño de fuente raíz (100%) */
+}
+
+body {
+    font-size: 1.6rem; /* Ajusta el tamaño de fuente del cuerpo */
+    font-family: 'Lato', sans-serif;
+    background-color: gray;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit; /* Asegura que el box-sizing se aplique a todos los elementos */
+}
+
+header {
+    padding: 3rem 0; /* Ajusta el padding del header */
+}
+
+header h1 {
+    text-align: center;
+    color: wheat;
+    font-size: 6rem; /* Ajusta el tamaño de fuente del título en el header */
+}
+
+header p {
+    color: thistle;
+    text-align: center;
+    font-size: 3.2rem; /* Ajusta el tamaño de fuente del párrafo en el header */
+}
+
+header p a {
+    text-decoration: none;
+    color: tomato;
+}
+
+.DOM {
+    max-width: 120rem; /* Ajusta el ancho máximo del contenedor .DOM */
+    margin: 0 auto; /* Centra el contenedor .DOM horizontalmente */
+}
+
+.DOM h2 {
+    color: #fff;
+    text-align: center;
+}
+
+.DOM nav a {
+    color: #fff;
+    font-size: 2rem; /* Ajusta el tamaño de fuente de los enlaces en el nav */
+    text-decoration: none;
+    margin-right: 1rem; /* Ajusta el margen derecho de los enlaces en el nav */
+}
+
+.DOM p {
+    color: #2563EB;
+    font-size: 2rem; /* Ajusta el tamaño de fuente de los párrafos en .DOM */
+}
+
+.DOM #formulario {
+    max-width: 50rem; /* Ajusta el ancho máximo del formulario */
+    margin: 0 auto; /* Centra el formulario horizontalmente */
+}
+
+.DOM #formulario input {
+    display: block;
+    width: 100%;
+    border: none;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.alerta {
+    padding: 1rem;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2rem; /* Ajusta el tamaño de fuente para las alertas */
+}
+
+.alerta.error {
+    background-color: rgb(162, 0, 0); /* Color de fondo para errores */
+}
+
+.alerta.exito {
+    background-color: rgb(7, 145, 7); /* Color de fondo para éxito */
+}
