@@ -2,7 +2,7 @@
 Proyecto de clase para la unidad 1 de la asignatura de Aplicaciones Web Orientada a Servicios (AWOS)
 
  ## DESCRIPCION
-Previo a inlslciar el desarrollo de software para web el framework de NodeJS, realizaremos un par de practicas de repaso en java script puro, con el objetivo de confrimar los conocimientos basicos de logica de programación.
+Previo a iniciar el desarrollo de software para web el framework de NodeJS, realizaremos un par de practicas de repaso en java script puro, con el objetivo de confrimar los conocimientos basicos de logica de programación.
 
  ## Historial de Prácticas
  |No. |Descripción|Estatus|
