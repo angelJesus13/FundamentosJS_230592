@@ -7,10 +7,10 @@ Previo a inlslciar el desarrollo de software para web el framework de NodeJS, re
  ## Historial de Prácticas
  |No. |Descripción|Estatus|Potenciador|
  |--|--|--|--|
- |1.|Metodologia de evaluacion|Activa|
- |2.|Inicializacion del proyecto de fundamentos de js|Activa|2|
- |3.|Declaracion de Variables (undefined/boolean/number)|Activa|5|
- |3.|Declaracion de Variables (symbol/string/null/function)|Activa|2|
+ |1.|Metodologia de evaluacion|Finalizada|1|
+ |2.|Inicializacion del proyecto de fundamentos de js|Finalizada|5|
+ |3.|Declaracion de Variables (undefined/boolean/number)|Finalizada|10|
+ |4.|Declaracion de Variables (symbol/string/null/function)|En curso|?|
 
 
 
