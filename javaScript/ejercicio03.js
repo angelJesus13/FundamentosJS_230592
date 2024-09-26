@@ -4,7 +4,7 @@
 //   "linear-gradient(11deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 33%, rgba(0,212,255,1) 86%)";
 // const style_console = `background: ${bg}; color: white; border-radius: 6px; padding: 4px; font-size: 1.0rem; font-weight: bold`;
 const bg =
-  "linear-gradient(45deg, rgba(160,0,0,1) 0%, rgba(255,0,0,1) 50%, rgba(255,100,100,1) 100%)";
+  "linear-gradient(45deg, rgba(140,0,0,1) 0%, rgba(133,0,5,1) 50%, rgba(225,10,150,1) 100%)";
 const style_console = `background: ${bg}; 
                       color: white; 
                       border-radius: 12px; 
