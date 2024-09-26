@@ -11,7 +11,8 @@ Previo a inlslciar el desarrollo de software para web el framework de NodeJS, re
  |1.|Metodologia de evaluacion|Finalizada|1|
  |2.|Inicializacion del proyecto de fundamentos de js|Finalizada|5|
  |3.|Declaracion de Variables (undefined/boolean/number)|Finalizada|10|
- |4.|Declaracion de Variables (symbol/string/null/function)|En curso|?|
+ |4.|Declaracion de Variables (symbol/string/null/function)|Finalizada|6|
+ |5.|Introduccion a Objetos|Finalizada|19|
 
 
 
